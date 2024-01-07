@@ -67,8 +67,15 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
+
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
 https://nonton.site:8443/live/ekos/7483/36.m3u8
 
