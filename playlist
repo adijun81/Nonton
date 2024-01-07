@@ -110,7 +110,7 @@ http://myteve.online:8080/F12232/f23d27c1/157512
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="Hiburan",Celestial Movies
 http://myteve.online:8080/F12232/f23d27c1/174687
 
-#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Hiburan",KIX
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="Hiburan",KIX
 http://myteve.online:8080/F12232/f23d27c1/299963
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="Hiburan",AXN
@@ -125,22 +125,22 @@ http://myteve.online:8080/F12232/f23d27c1/285308
 
 ================================================================================================================================
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sport",LIGA BRI 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sports",LIGA BRI 2
 http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sport",LIGA BRI
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sports",LIGA BRI
 http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/162138
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Sport",FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Sports",FOX SPORTS 2
 http://myteve.online:8080/F12232/f23d27c1/157488
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Sport",beIN Sports
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Sports",beIN Sports
 http://myteve.online:8080/F12232/f23d27c1/157561
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="Sport",beIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="Sports",beIN Sports 1
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/282772
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png" group-title="Sport",beIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png" group-title="Sports",beIN Sports 3
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/266844
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
