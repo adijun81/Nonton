@@ -125,11 +125,23 @@ http://myteve.online:8080/F12232/f23d27c1/285308
 
 ================================================================================================================================
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sport",LIGA BRI 2
+http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="Sport",LIGA BRI
+http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/162138
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Sport",FOX SPORTS 2
 http://myteve.online:8080/F12232/f23d27c1/157488
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Sport",beIN Sports
 http://myteve.online:8080/F12232/f23d27c1/157561
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="Sport",beIN Sports 1
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/282772
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fde470ee5be4764508af7ca066be9694.png" group-title="Sport",beIN Sports 3
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/266844
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
